@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #f0bb03;
+  font-size: 30px;
+}
+.caption {
+  color: white;
+  font-size: 16px;
+}
+.btn {
+  background-color: white;
+  color: #1e293b;
+  width: 100px;
+  border-style: none;
+  border-radius: 8px;
+  padding: 8px;
+}
